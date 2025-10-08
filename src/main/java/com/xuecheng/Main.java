@@ -5,5 +5,8 @@ public class Main {
         // 角色2第一次修改
         System.out.printf("HelloWorld!");
         // 角色1第二次修改
+
+        // 处理冲突
+        System.out.println("角色2打印：AAAAA");
     }
 }
